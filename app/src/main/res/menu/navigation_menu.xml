@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/online1"
+        android:title="Go Online"
+        android:icon="@drawable/share"/>
+
+    <item
+        android:id="@+id/online2"
+        android:title="Upload"
+        android:icon="@drawable/upload">
+
+    </item>
+
+    <item
+        android:id="@+id/features"
+        android:title="Features"
+        android:icon="@drawable/features" />
+
+    <item
+        android:id="@+id/credits"
+        android:title="Credits"
+        android:icon="@drawable/credits">
+
+    </item>
+
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/logout">
+
+    </item>
+
+    <item
+        android:id="@+id/exit"
+        android:title="Exit"
+        android:icon="@drawable/exit">
+
+    </item>
+
+
+
+
+</menu>

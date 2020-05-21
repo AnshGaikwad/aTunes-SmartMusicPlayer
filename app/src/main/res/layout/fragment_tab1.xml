@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="0dp"
+    tools:context=".Tab1">
+
+    <!-- TODO: Update blank fragment layout -->
+<!--
+make above padding 16dp
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/recView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+-->
+    <ListView
+        android:id="@+id/songsList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+<!--
+</androidx.recyclerview.widget.RecyclerView>
+
+
+    <com.trendyol.bubblescrollbarlib.BubbleScrollBar
+        android:id="@+id/bubble_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="end"
+        android:orientation="vertical"
+        app:bubbleBackground="@drawable/myscroll"
+        app:thumbBackground="@color/colorAccent"
+        app:scrollbarBackground="@color/scroll"
+        app:bubbleTextSize="8sp"
+        app:bubbleMargin="4dp"
+        app:bubbleElevation="6dp"
+        app:bubbleHeight="50dp"
+        app:bubbleMinWidth="50dp"
+        app:bubbleTextColor="@android:color/white"
+        app:bubblePadding="4dp"
+        >
+
+
+    </com.trendyol.bubblescrollbarlib.BubbleScrollBar>
+            -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@drawable/features" />
+</FrameLayout>
