@@ -9,6 +9,7 @@ Run the command in your terminal
 git clone https://github.com/AnshGaikwad/aTunes-SmartMusicPlayer.git
 ```
 Or you can just clone it through [android studio](https://developer.android.com/studio) which will be much easier.
+Note: Always run te application on a real device rather running it on a emulator
 # Features
 > 1. Swipe Gesture Controls
 > 2. Online Firebase Database
