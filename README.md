@@ -1,15 +1,24 @@
-![App Logo](https://github.com/AnshGaikwad/aTunes-SmartMusicPlayer/blob/master/app/src/main/res/drawable/logoa.png)
+![App Logo](https://github.com/arshadpatel2001/aTunes-SmartMusicPlayer/blob/master/Images/logoa.png)
 # aTunes => Smart Music Player
-I wanted to win a hackathon in my college and I wasn't getting any ideas. So, I asked my friend [Arshad Patel](https://github.com/arshadpatel2001) about any ideas and he suggested to make a simple music player and then add some features which no one has thought about it. So we started developing a Smart Music Player and named it aTunes as it is an [android](https://www.android.com/intl/en_in/) app (such as [iTunes](https://www.apple.com/in/itunes/) in [iphone](https://www.apple.com/in/iphone/) as an [IOS](https://www.apple.com/in/ios/ios-13/) app).
-# History
-I started this project with my friend [Arshad Patel](https://github.com/arshadpatel2001) to compete in a local hackathon in my college [Vishwarkma Institue of Technology](http://www.vit.edu/) organised by our college's robotics team, [TRF](https://vitpunerobotics.com/) in the event `robodroid`. It was an android app development competition and the top three groups were to be given 2 [raspberry pi](https://www.raspberrypi.org/) for a group, i.e. in total 6 [raspberry pi](https://www.raspberrypi.org/). We were among the top 4 selected in the final round of which the rest of the three groups were students of 2nd and 3rd yr and we were the only ones from the 1st yr and then the battle for the top 3 positions was started. When the presentations were finished, we were sure that we will be among the one's who will be taking a [raspberry pi](https://www.raspberrypi.org/) home but unfortunately the judge of the competition changed the rules and decided that only one group will receive the [raspberry pi](https://www.raspberrypi.org/) at that moment and the rest 4 will be given in a competition which will be open for all again and that will be planned later. Still, we had a feeling that we can secure the first place as the idea of the app was innovative and it had multiple features than any other ordinary music player. But we couldn't, the winner of the app competition was a debate app made by some seniors and it feels frustrating to say but there app was great with no bugs and they had invested a lot of efforts in it. Later, we didnt waste any time and planned to strike with everything we have got in the next hackathon but it was never held due to the Quarantine of 2019. 
+aTunes is a smart music player application developed for Android, designed to offer an innovative and feature-rich alternative to traditional music players. The project was conceived and developed as part of a hackathon competition at Vishwakarma Institute of Technology, organized by the college's robotics forum, [TRF](https://www.linkedin.com/company/the-robotics-forum/).
+# Development History
+This project was initiated by me and my friend [Ansh Gaikwad](https://www.linkedin.com/in/anshgaikwad/) to participate in a local hackathon at Vishwakarma Institute of Technology. Despite being first-year students, our team reached the final round, competing against senior students. Although we did not win, the project was recognized for its innovative approach and multiple unique features, ultimately securing the runner-up position.
+
+During the competition, the judges changed the rules and decided that only one group would be awarded the first position immediately, with the remaining teams participating in a second round of competition open to all. However, this second round was never held due to the Quarantine of 2019. Although aTunes did not secure the top position, the project showcased significant potential and provided valuable experience to us for future developments and projects.
+
+### Images from the Hackathon - Featured in [Vaatchal](https://www.instagram.com/vit_vaatchal/) Vol.3 No. 5 [[linktr.ee](https://linktr.ee/vit_vaatchal)/[GDrive](https://drive.google.com/drive/folders/1ck848bNcjL6WL73kKBqnk1Bstjhq8urW?usp=drive_link)] - The Official Newsletter of VIT Pune
+
+![Article](https://github.com/arshadpatel2001/aTunes-SmartMusicPlayer/blob/master/Images/VaatchalVol3No5Article.png)
+
+![Hackathon Photos](https://github.com/arshadpatel2001/aTunes-SmartMusicPlayer/blob/master/Images/VaatchalVol3No5Photos.png)
+
 # Install
 Run the command in your terminal
 ```
 git clone https://github.com/AnshGaikwad/aTunes-SmartMusicPlayer.git
 ```
 Or you can just clone it through [android studio](https://developer.android.com/studio) which will be much easier.
-Note: Always run te application on a real device rather running it on a emulator
+Note: Always run the application on a real device rather running it on a emulator
 # Features
 > 1. Swipe Gesture Controls
 > 2. Online Firebase Database
